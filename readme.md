@@ -1,6 +1,7 @@
 Начало работы:
     npm install
     npm run docker:build
+    npm run docker:run
 
 80 port - это порт по умолчанию для http
 
